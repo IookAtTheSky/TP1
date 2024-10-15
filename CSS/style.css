@@ -29,6 +29,7 @@ h2 {
 .monALineBlock {
     background-color: blue;
     height: 1px;
+    color: white;
 }
 
 .photoActeur {
